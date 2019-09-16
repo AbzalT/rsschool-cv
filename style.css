@@ -3,7 +3,8 @@ body {
 	margin: 0;
     font-size: 14px;
     font-family: Arial, sans-serif;
-	color: #8e939b;	
+    /* color: #8e939b; */
+    color: #039;	
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;	
 }
@@ -26,10 +27,12 @@ header h1 {
 section h2 {
     padding-left: 2%;
     font-size: 18px;
+    background: #e8edff;
 }
 
 section p {
-	padding-left: 4%;
+    padding-left: 4%;
+    background: #e8edff;
 }
 
 footer {
@@ -70,6 +73,12 @@ footer {
     height: 316px;
     padding-left: 2%;
 }
+
+.box>div:last-child {
+    margin-left: 2%;
+    width: calc(95% - 238px); 
+}
+
 th {
     font-size: 13px;
     font-weight: normal;
@@ -88,3 +97,7 @@ th {
   }
   tr:hover td,
   .obloko-tag__section:hover {background: #ccddff;}
+
+  footer>p {
+      text-transform: uppercase;
+  }
