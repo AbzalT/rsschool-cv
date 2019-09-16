@@ -60,7 +60,7 @@ Department head
 Russian — Native
 
 ## Skills:
-Visual Studio, C#, LINQ ,MS SQL Server, Windows Forms, Automation of personnel management processes, HTML, JavaScript, CSS, ASP.NET, jQuery, .NET Framework, HTML5, CSS3, Entity Framework
+Visual Studio, C#, .NET Framework, ASP.NET, LINQ , Windows Forms, Entity Framework, HTML, CSS, JavaScript, jQuery,  MS SQL Server,
 
 ## Driving experience
 Own car  
