@@ -1,0 +1,65 @@
+body {
+    min-width: 320px;    
+    margin: 0;
+    font-family: Arial,sans-serif;
+    font-size: 14px;
+    /* color: #333; */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #8e939b;
+}
+.container {
+    position: relative;
+    margin: 0 auto;
+    width: 100%;    
+    max-width: 1024px;
+    }
+
+.header {
+    font-size: 36px;
+    line-height: normal;
+    font-weight: 600;
+    margin: 0 0 15px;
+    padding: 2%;
+    text-align: center; 
+}   
+.titleSub {
+   /*  -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #8e939b; * */
+    font-size: 18px;
+}
+section h2 {
+    padding-left: 2%;
+}
+section p {
+    padding-left: 4%;
+}
+footer {
+    margin: 1% 1%;
+    padding: 2%;
+    text-align: center; 
+}
+
+.bloko-tag__section_text {
+    display: inline-block;
+    position: relative;
+    flex-grow: 1;
+    flex-shrink: 1;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    box-sizing: border-box;
+    padding: 0 11px;
+    text-align: left;
+}
+.bloko-tag__section {
+    background-color: rgba(203,209,211,.3);
+    color: #666;   
+    height: 30px;
+    line-height: 28px;
+    border: 1px solid transparent;
+}
+
+
+
