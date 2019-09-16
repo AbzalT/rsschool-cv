@@ -1,21 +1,18 @@
 # Abzal Tankibayev  
-### Sex: Male  
-### Age: 46 years (06.25.1973)  
-### Contact info:  
-+7 (701) 5999458
-+7 (777) 9991873
-### Preferred means of communication: Abzal.Tankibayev@outlook.com 
-### Residence: Nur-Sultan
-### Citizenship: Kazakhstan
-### Ready to relocate, ready for business trips
-### Desired position and salary
-Software developer
-IT, Internet, Telecom
-• Software Development
-• Engineer
-### Employment: project work, work placement, part time, full time
-### Work schedule: flexible schedule, full day
-### Travel time to work: any	
+Sex: Male  
+Age: 46 years (06.25.1973)  
+Contact info:    
++7 (701) 5999458  
++7 (777) 9991873  
+Preferred means of communication: Abzal.Tankibayev@outlook.com   
+Residence: Nur-Sultan  
+Citizenship: Kazakhstan  
+Ready to relocate, ready for business trips  
+Desired position and salary  
+Software developer • IT • Internet • Telecom • Software Development • Engineer  
+Employment: project work, work placement, part time, full time  
+Work schedule: flexible schedule, full day  
+Travel time to work: any  	
 
 ### Work experience —22 years 9 months
 
@@ -49,7 +46,7 @@ General manager
 Engineer
 - Maintenance of banking products
 
-## [National Bank of Kazakhstan Joint-Stock Company](www.halykbank.kz), Semey
+## [Halyk Bank of Kazakhstan Joint-Stock Company](www.halykbank.kz), Semey
 ### January 1997 — January 2003, 6 years 1 month	
 Department head
 - Network and network services administration
@@ -66,6 +63,6 @@ Russian — Native
 Visual Studio, C#, LINQ ,MS SQL Server, Windows Forms, Automation of personnel management processes, HTML, JavaScript, CSS, ASP.NET, jQuery, .NET Framework, HTML5, CSS3, Entity Framework
 
 ## Driving experience
-Own car
+Own car  
 Driver's licence category B
 
